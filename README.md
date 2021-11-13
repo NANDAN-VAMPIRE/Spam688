@@ -26,7 +26,7 @@
 
 
 ## Deploy To Heroku
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mahabalix/mahabalispam)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mahabalix/mahabaliprivatespam)
 
 # SPAMBOTS
 [𝐆𝐄𝐍𝐑𝐀𝐓𝐄 𝐒𝐓𝐑𝐈𝐍𝐆](https://replit.com/@Mahabalix/mahabalispam#main.py)
