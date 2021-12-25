@@ -24,9 +24,6 @@
 ## Telegram 🏪
 - [![𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/DANGER_FIGHTERS)
 
-## Deploy To Railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fmahabalix%2Fmahabaliprivatespam&envs=API_HASH%2CAPI_ID%2CPING_MESSAGE%2CSTRING%2CSTRING_10%2CSTRING2%2CSTRING3%2CSTRING4%2CSTRING5%2CSTRING6%2CSTRING7%2CSTRING8%2CSTRING9%2CSUDO&API_HASHDesc=Api+Hash&API_IDDesc=Enter+String+Session&PING_MESSAGEDesc=Enter+Your+Name&STRINGDesc=Enter+String+Session&STRING_10Desc=Enter+String+Session&STRING2Desc=Enter+String+Session&STRING3Desc=Enter+String+Session&STRING4Desc=Enter+String+Session&STRING5Desc=Enter+String+Session&STRING6Desc=Enter+String+Session&STRING7Desc=Enter+String+Session&STRING8Desc=Enter+String+Session&STRING9Desc=Enter+String+Session&SUDODesc=Sudo+Users+Id&referralCode=fSYHEa)
-
 ## Deploy To Heroku
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mahabalix/mahabaliprivatespam)
 
